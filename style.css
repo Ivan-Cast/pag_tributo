@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #1D1D1F;
+	color: #fff;
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+    background-image: url(https://img.wallpapersafari.com/desktop/1024/576/77/49/Sab7sW.jpg);
+    font-family: 'noto sans mono', "Comic Sans MS";
+}
+
+
+
+.contenedor {
+	max-width: 1200px;
+	width: 90%;
+	margin: auto;
+ 
+}
+
+.contenido-principal {
+	margin-bottom: 50px;
+	text-align: center;
+	align-items: center;
+    margin-top: 50px;
+}
+
+.contenido-principal__imagen {
+	vertical-align: top;
+	margin-right: 20px;
+	width: 50%;
+	max-width: 550px;
+}
+
+.contenido-principal__contenedor {
+	width: 100%;
+}
+
+
+.contenido-principal__resumen {
+	font-family: 'noto sans mono', "Comic Sans MS";
+	line-height: 30px;
+	color: #CFCFCF;
+    
+}
